@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/Chuck/BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/menu-v21/scanner_menu.xml",
+        "source": "/Users/Chuck/BluetoothAdvertisements/Application/src/main/res/menu-v21/scanner_menu.xml"
+    },
+    {
         "merged": "/home/devel/Downloads/BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/menu-v21/scanner_menu.xml",
         "source": "/home/devel/Downloads/BluetoothAdvertisements/Application/src/main/res/menu-v21/scanner_menu.xml"
     }

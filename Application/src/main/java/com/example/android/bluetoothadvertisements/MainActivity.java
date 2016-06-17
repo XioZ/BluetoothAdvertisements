@@ -31,6 +31,7 @@ import android.widget.Toast;
  */
 public class MainActivity extends FragmentActivity {
 
+    private String str = "hello";
     private BluetoothAdapter mBluetoothAdapter;
 
     @Override

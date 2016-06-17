@@ -4,7 +4,15 @@
         "source": "/home/devel/Downloads/BluetoothAdvertisements/Application/src/main/res/drawable-xhdpi/ic_action_refresh.png"
     },
     {
+        "merged": "/Users/Chuck/BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/Chuck/BluetoothAdvertisements/Application/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/devel/Downloads/BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
         "source": "/home/devel/Downloads/BluetoothAdvertisements/Application/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Chuck/BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_action_refresh.png",
+        "source": "/Users/Chuck/BluetoothAdvertisements/Application/src/main/res/drawable-xhdpi/ic_action_refresh.png"
     }
 ]

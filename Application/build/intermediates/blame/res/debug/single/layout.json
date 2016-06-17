@@ -8,7 +8,19 @@
         "source": "/home/devel/Downloads/BluetoothAdvertisements/Application/src/main/res/layout/activity_main.xml"
     },
     {
+        "merged": "/Users/Chuck/BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/layout/fragment_advertiser.xml",
+        "source": "/Users/Chuck/BluetoothAdvertisements/Application/src/main/res/layout/fragment_advertiser.xml"
+    },
+    {
+        "merged": "/Users/Chuck/BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/layout/listitem_scanresult.xml",
+        "source": "/Users/Chuck/BluetoothAdvertisements/Application/src/main/res/layout/listitem_scanresult.xml"
+    },
+    {
         "merged": "/home/devel/Downloads/BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/layout/listitem_scanresult.xml",
         "source": "/home/devel/Downloads/BluetoothAdvertisements/Application/src/main/res/layout/listitem_scanresult.xml"
+    },
+    {
+        "merged": "/Users/Chuck/BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/Chuck/BluetoothAdvertisements/Application/src/main/res/layout/activity_main.xml"
     }
 ]
