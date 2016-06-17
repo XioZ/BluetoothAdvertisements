@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/devel/Downloads/BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_action_refresh.png",
+        "source": "/home/devel/Downloads/BluetoothAdvertisements/Application/src/main/res/drawable-xxhdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/home/devel/Downloads/BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/devel/Downloads/BluetoothAdvertisements/Application/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]

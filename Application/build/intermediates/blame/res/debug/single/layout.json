@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/devel/Downloads/BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/layout/fragment_advertiser.xml",
+        "source": "/home/devel/Downloads/BluetoothAdvertisements/Application/src/main/res/layout/fragment_advertiser.xml"
+    },
+    {
+        "merged": "/home/devel/Downloads/BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/devel/Downloads/BluetoothAdvertisements/Application/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/devel/Downloads/BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/layout/listitem_scanresult.xml",
+        "source": "/home/devel/Downloads/BluetoothAdvertisements/Application/src/main/res/layout/listitem_scanresult.xml"
+    }
+]

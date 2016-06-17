@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/devel/Downloads/BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/devel/Downloads/BluetoothAdvertisements/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/devel/Downloads/BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/tile.9.png",
+        "source": "/home/devel/Downloads/BluetoothAdvertisements/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/home/devel/Downloads/BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_refresh.png",
+        "source": "/home/devel/Downloads/BluetoothAdvertisements/Application/src/main/res/drawable-hdpi/ic_action_refresh.png"
+    }
+]
